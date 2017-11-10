@@ -1,5 +1,5 @@
 .navbar{
-	background-color:#173e43;
+	background-color:white;
 }
 #mainPart{
 	height:500px;
@@ -18,7 +18,7 @@ body{
 
 }
 #label{
-	color:white;
+	color:#828286;
 }
 #product{
 	height:300px;
